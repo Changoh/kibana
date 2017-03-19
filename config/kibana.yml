@@ -1,0 +1,5 @@
+xpack.security.enabled: false
+server.name: kibana-example
+server.port: 5601
+server.host: 0.0.0.0
+elasticsearch.url: http://elasticsearch-example:9222
